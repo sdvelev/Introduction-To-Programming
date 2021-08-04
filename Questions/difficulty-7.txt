@@ -1,0 +1,124 @@
+/**
+*
+* Solution to course project # 1
+* Introduction to programming course
+* Faculty of Mathematics and Informatics of Sofia University
+* Winter semester 2020/2021
+*
+* @author Stefan Velev
+* @idnumber 62537
+* @compiler VC
+*
+* <file with questions difficulty 7>
+*
+*/
+
+600
+History
+Who was the successor of of Konstantin Tih Asen?
+Ivan Asen II
+Mitso Asen
+Ivaylo
+George Terter I
+C
+
+601
+History
+Who was the mother of tsar Ivan Shishman?
+Sarah-Theodora
+Irina
+Maria
+Theodora of Wallachia 
+A
+
+602
+History
+How many member states are there in the EU?
+25
+28
+29
+27
+D
+
+603
+Literature
+Which is not a figure in "The Hanging of Vassil Levski" by Hristo Botev?
+Raven
+Wolf
+The sun
+Sofia 
+C
+
+604
+Litrerature
+Which text is not a part of the "Epic of the Forgotten" by Ivan Vazov?
+"Levski"
+"Rakovski"
+"Karavelov"
+"Volov"
+C
+
+605
+Literature
+Which was Elin Pelin 's second long short story? 
+"Under the monastic vine"
+"Earth"
+"The Gerak Family"
+"Albena"
+B
+
+606
+Geography
+What is the name of the central part of the city where there are many banks and other amenities?
+market
+largo
+Agglomeration
+City
+D
+
+607
+Geography
+Which is the highest waterfall in Bulgaria:
+Raisko Praskalo Waterfall 
+Boyana Waterfall
+Krushuna Waterfalls
+Skakavitsa Waterfall
+A
+
+
+608
+Geography
+Which town had the name Mihaylovgrad?
+Vidin
+Montana
+Vratsa
+Dimitrovgrad
+B
+
+609
+Language
+By approaching the problem from another ...... Justin managed to solve it?
+angle
+direction
+aspect
+point
+A
+
+610
+Language
+She passed the examination with ....... colours?
+flying
+soaring
+flowing
+striking
+A
+
+611
+Language
+Charles Dickens is one of the most ...... authors in history.
+acclaimed 
+inflated
+exaggerated 
+elevated
+A
+

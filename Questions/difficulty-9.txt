@@ -1,0 +1,123 @@
+/**
+*
+* Solution to course project # 1
+* Introduction to programming course
+* Faculty of Mathematics and Informatics of Sofia University
+* Winter semester 2020/2021
+*
+* @author Stefan Velev
+* @idnumber 62537
+* @compiler VC
+*
+* <file with questions difficulty 9>
+*
+*/
+
+800
+History
+Who claimed to have been descendant of Gavril Radomir during Byzantine rule?
+Ivan Vladislav
+Constantine Bodin 
+Peter Delyan
+Roman
+C
+
+801
+History
+When was NATO founded?
+1949
+1952
+1955
+1946
+A
+
+802
+History
+Who was the mother of Queen Elizabeth I?
+Catherine of Aragon
+Mary I
+Anne Boleyn 
+Jane Seymour 
+C
+
+803
+Literature
+Which of the following are all Trojans?
+Achilles, Agamemnon, Odyssey, Tersites
+Hector, Andromache, Priam, Paris
+Nestor, Menelaus, Helen, Hecuba
+Astyanax, Scamander, Ajax, Brizeida 
+B
+
+804
+Literature
+How many different main themes are covered in the poems of Yavorov?
+Two
+Three
+Four
+Five
+B
+
+805
+Literature
+Which is the odd one out?
+"Uncles"
+"Under the Yoke"
+"Grandfather Yoco is watching"
+"Nemili-nedragi"
+D
+
+806
+Geography
+How long is the northern border of Bulgaria?
+598 km
+609 km
+710 km
+563 km
+B
+
+807
+Geography
+How long is the southern border of Bulgaria?
+609 km
+752 km
+584 km
+680 km
+B
+
+808
+Geography
+How long is the western border of Bulgaria?
+427 km
+506 km
+609 km
+574 km
+B
+
+809
+Language
+What is the translation of the sentence in French: "Je veux sortir avec mes amis ce weekend"?
+I want to go out with my friends this weekend.
+I want to go out with my parents this weekend.
+I want to play with my friends this weekend.
+I want to go out with my parents this weekend.
+A
+
+810
+Language
+What is the translation of the sentence in German: "Ich werde dieses Buch kaufen"?
+I will buy the book.
+I have bought the book.
+I bought the book.
+I am buying the book.
+A
+
+811
+Language
+What is the translation of the sentence in Italian: "Parli Tedesco"?
+Do you speak German?
+Do you speak French?
+Do you speak Dutch?
+Do you speak Norwegian? 
+A
+

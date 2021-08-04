@@ -1,0 +1,131 @@
+/**
+*
+* Solution to course project # 1
+* Introduction to programming course
+* Faculty of Mathematics and Informatics of Sofia University
+* Winter semester 2020/2021
+*
+* @author Stefan Velev
+* @idnumber 62537
+* @compiler VC
+*
+* <file with questions difficulty 1>
+*
+*/
+
+1
+History
+When was Bulgaria founded?
+679
+680
+681
+685
+C
+
+2
+History
+When was the University of Sofia founded?
+1888
+1890
+1879
+1892
+A
+
+3
+History
+Who was the first female Prime Minister of UK?
+Theresa May
+Margaret Thatcher
+Margaret Beckett
+Ariene Foster
+B
+
+4
+History
+When did World War I started?
+1913
+1914
+1915
+1916
+B
+
+5
+Literature
+Where was Hristo Botev born?
+Kalofer
+Karlovo
+Sopot
+Lovech 
+A
+
+6
+Literature
+Where was Ivan Vazov born?
+Kalofer
+Karlovo
+Sopot
+Lovech 
+C
+
+7
+Literature
+Where was Peyo Yavorov born?
+Plovdiv
+Chirpan
+Sliven
+Sofia
+B
+
+8
+Geography
+Which is the smallest town in Bulgaria?
+Klisura
+Shipka
+Madan
+Melnik
+D
+
+9
+Geography
+How many regions are there in Bulgaria?
+26 regions
+27 regions
+28 regions
+29 regions
+C
+
+10
+Geography
+Which capital city is the odd one out?
+Berlin
+Vatican
+Sofia
+Madrid
+B
+
+11
+Language
+Which is the most widely spoken language in the world?
+Chinese
+English
+Spanish
+Hindi
+B
+
+12
+Language
+Which country has the highest number of languages spoken on its territory?
+China
+Russia
+USA
+Brazil
+B
+
+13
+Language
+How many tenses are there in English?
+Eight
+Ten
+Twelve
+Fourteen
+C

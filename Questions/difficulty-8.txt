@@ -1,0 +1,133 @@
+/**
+*
+* Solution to course project # 1
+* Introduction to programming course
+* Faculty of Mathematics and Informatics of Sofia University
+* Winter semester 2020/2021
+*
+* @author Stefan Velev
+* @idnumber 62537
+* @compiler VC
+*
+* <file with questions difficulty 8>
+*
+*/
+
+700
+History
+Who was Henry VIII's first wife?
+Anne of Cleves
+Anne Boleyn
+Catherine of Aragon
+Catherine Parr
+C
+
+701
+History
+Who was the 40th President of the USA?
+Richard Nixon
+Jimmy Carter
+Ronald Reagan
+John Kennedy
+C
+
+702
+History
+Who was the founder of the Society of Jesus?
+Francisco Xavier
+Diego Lainez
+Peter Faber
+Ignatius of Loyola 
+D
+
+703
+History
+Who was the teacher of Aristotle?
+Plato
+Socrates 
+Raphael
+Leo Strauss
+A
+
+704
+Literature
+Who is not a character of "Tobacco" by Dimitar Dimov?
+Boris
+Elena
+Irina
+Maria
+B
+
+705
+Literature
+Who is the detective of the most of Agatha Christie ’s novels? 
+Sherlock Holmes
+Hercule Poirot
+Cormoran Strike
+Dr Gideon Fell
+B
+
+706
+Literature
+Who was the murderer in "Murder on the Orient Express" by Agatha Christie?
+There was not a murderer 
+It was not a murderer
+Princess Dragomiroff
+Hercule Poirot
+B
+
+707
+Geography
+Which town had the name Augusta Trayana?
+Yambol
+Stara Zagora
+Sliven
+Radnevo
+B
+
+708
+Geography
+Which is the biggest town on Danube River in Bulgaria?
+Vidin
+Ruse
+Silistra
+Svishtov
+B
+
+709
+Geography
+How long is the eastern border of Bugaria?
+368 km
+378 km
+388 km
+398 km
+B
+
+710
+Language
+Which of the following means "today" in German?
+heute
+gestern
+sofort
+bereits 
+A
+
+711
+Language
+How many cases are there in Bulgarian in personal and some other pronouns?
+One
+Two
+Three
+There are no cases in Modern Bulgarian 
+C
+
+712
+Language
+How many verb tenses are there in Bulgarian?
+Six
+Seven
+Eight
+Nine
+D
+
+

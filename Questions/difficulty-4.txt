@@ -1,0 +1,122 @@
+/**
+*
+* Solution to course project # 1
+* Introduction to programming course
+* Faculty of Mathematics and Informatics of Sofia University
+* Winter semester 2020/2021
+*
+* @author Stefan Velev
+* @idnumber 62537
+* @compiler VC
+*
+* <file with questions difficulty 4>
+*
+*/
+
+300
+History
+Which Queen of England had the name "Bloody Mary"?
+Mary I
+Mary II
+Mary III
+Elizabeth I
+A
+
+301
+History
+When was the Byzantine empire founded?
+AD 320
+AD 330
+AD 340
+AD 350
+B
+
+302
+History
+When was "The Bulgarian Easter"?
+1850
+1860
+1870
+1869
+B
+
+303
+Literature
+The events of "Iliad" by Homer cover:
+All ten years of the Trojan war 
+The last year of the Trojan War
+The last five years of the Trojan War
+The last six months of the Trojan War
+B
+
+304
+Literature
+When was the Human created according to the first book of the Bible?
+On the third day
+On the sixth day
+On the seventh day
+After the first seven days
+B
+
+305
+Literature
+When was "Istoriya Slavyanobolgarskaya" written?
+1771
+1768
+1781
+1762
+D
+
+306
+Geography
+How many climatic zones are there in Bulgaria?
+Two
+Three
+Four
+Five
+D
+
+307
+Geography
+If you get on a plane to London at 16:00 and the flights is two hours, when will you arrive in London?
+14:00
+15:00
+16:00
+17:00
+C
+
+308
+Geography
+Which valley is famous as The Valley of the Thracian Kings?
+Karlovo Valley
+Kazanlak Valley
+Koprivshtitsa Valley
+Veliko Tarnovo Valley
+B
+
+309
+Language
+How many languages are there in the world?
+5000-6000
+6000-7000
+7000-8000
+More than 8000
+B
+
+310
+Language
+Is there a noun gender in Italian?
+No
+Yes, one gender
+Yes, two genders
+Yes, three genders
+C
+
+311
+Language
+Is there a noun gender in Spanish?
+No
+Yes, one gender
+Yes, two genders
+Yes, three genders
+C

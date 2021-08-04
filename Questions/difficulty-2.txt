@@ -1,0 +1,131 @@
+/**
+*
+* Solution to course project # 1
+* Introduction to programming course
+* Faculty of Mathematics and Informatics of Sofia University
+* Winter semester 2020/2021
+*
+* @author Stefan Velev
+* @idnumber 62537
+* @compiler VC
+*
+* <file with questions difficulty 2>
+*
+*/
+
+100
+History
+Who was Tsar Ivan Asen II?
+Son of Kaloyan
+Son of Boril
+Son of Petar I
+Son of Asen I
+D
+
+101
+History
+Who was the first tsar of Bulgaria after 1878?
+Boris III
+Ferdinand I
+Alexander I
+Simeon II
+B
+
+102
+History
+Who was the first president of the USA?
+George Washington
+John Adams
+Thomas Jefferson
+Andrew Jackson
+A
+
+103
+History
+When was America discovered?
+1482
+1494
+1491
+1492
+D
+
+104
+Literature
+What was the sin of Cain?
+Patricide
+Matricide
+Fratricide
+Theft
+C
+
+105
+Literature
+What is the relationship between Petko and Pencho Slaveykovi?
+Uncle and nephew
+Father and son
+Brothers
+Only coincidence in the names
+B
+
+106
+Literature
+How many main "muses" did Yavorov have?
+Two
+Three
+Four
+More 
+B
+
+107
+Geography
+If it is 13:00 in Sofia, what is the time in London?
+11:00
+12:00
+14:00
+15:00
+A
+
+108
+Geography
+If it is 13:00 in Sofia, what is the time in Rome?
+11:00
+12:00
+13:00
+14:00
+B
+
+109
+Geography
+If it is 13:00 in Sofia, what is the time in Cyprus?
+11:00
+12:00
+13:00
+14:00
+C
+
+110
+Language
+Which language is not a part of the Germanic family of languages?
+Icelandic
+English
+French
+Norwegian
+C
+
+111
+Language
+Which language is not a part of the Romance family of languages?
+French
+Spanish
+Romanian
+English
+D
+
+112
+Language
+Which language is not a part of the Slavic family of languages?
+Croatian
+Polish
+Romanian
+Serbian
+C

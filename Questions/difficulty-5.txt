@@ -1,0 +1,131 @@
+/**
+*
+* Solution to course project # 1
+* Introduction to programming course
+* Faculty of Mathematics and Informatics of Sofia University
+* Winter semester 2020/2021
+*
+* @author Stefan Velev
+* @idnumber 62537
+* @compiler VC
+*
+* <file with questions difficulty 5>
+*
+*/
+
+400
+History
+How long was the Hundred Years' War?
+100 years
+101 years
+114 years
+116 years
+D
+
+401
+History
+When was the Byzantine empire dissolved?
+1398
+1428
+1453
+1451
+C
+
+402
+History
+When was the treaty of between han Tervel and Theodosius  III concluded?
+715
+716
+717
+708
+B
+
+403
+History
+Who was Konrad Adenauer?
+President of Switzerland 
+Chancellor of Norway
+Chancellor of Germany
+President of Germany
+C
+
+404
+Literature
+What is the approximate duration of the events in "Hamlet"?
+A day
+A week
+A month
+A year
+B
+
+405
+Literature
+How many parts are there in "Under the Yoke" by Ivan Vazov?
+One
+Two
+Three
+Four
+C
+
+406
+Literature
+Where is the grave of Ivan Vazov in Sofia?
+Near St Sofia Church
+Near Saint Aleksander Nevski Cathedral
+Near St Nedelya Church
+Near St Nikolay Mirlikiiski Church
+A
+
+407
+Geography
+Where is the Museum of Mosaics?
+Devnya
+Varna
+Pomorie
+Dobrich 
+A
+
+408
+Geography
+Where is the Museum of the Bear?
+Smolyan
+Trigrad
+Yagodina
+Velingrad
+B
+
+409
+Geography
+Where is the Museum of Salt?
+Devnya
+Varna
+Pomorie
+Dobrich 
+C
+
+410
+Language
+What part of the world's population are bilingual or plurilingual, i.e. they speak two or more languages?
+At least 1/4
+At least 1/2
+At least 3/4
+Less than 1/4
+B
+
+411
+Language
+How is 'v' pronounced in the German alphabet?
+[fau]
+[wi]
+[we] 
+[wo]
+A
+
+412
+Language
+Grammatical gender is a way that languages classify nouns. Some languages have no genders, some have two and some have far more. Which list orders languages from least to most grammatical genders?
+English, German, Spanish
+English, Spanish, German
+Spanish, English, German
+German, Spanish, English
+B

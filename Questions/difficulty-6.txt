@@ -1,0 +1,123 @@
+/**
+*
+* Solution to course project # 1
+* Introduction to programming course
+* Faculty of Mathematics and Informatics of Sofia University
+* Winter semester 2020/2021
+*
+* @author Stefan Velev
+* @idnumber 62537
+* @compiler VC
+*
+* <file with questions difficulty 6>
+*
+*/
+
+500
+History
+The first successful vaccine was introduced by Edward Jenner in 1796. Which disease did it guard against?
+smallpox
+flu
+cowpox
+measles
+A
+
+501
+History
+Who was Hilarion of Makariopolis?
+Stoyan Mihaylovski
+Neofit Bozveli
+Emanuil Vaskidovich
+Nikola Mihaylovski
+A
+
+502
+History
+When was The European Union founded?
+1992
+1995
+1989
+1993
+D
+
+503
+Literature
+Which of the following is not a character in "Antigone"?
+Creon
+Jocasta
+Elektra
+Ismene
+C
+
+504
+Literature
+When was the novel "Robinson Crusoe" created?
+Renaissance
+Classicism
+Enlightenment 
+Romanticism
+C
+
+505
+Literature
+When was the novel "The Count of Monte Cristo" created?
+Renaissance
+Classicism
+Enlightenment 
+Romanticism
+D
+
+506
+Geography
+Which peak is usually the windiest in Bulgaria?
+Botev Peak
+Musala Peak
+Cherni Vrah Peak
+Vihren Peak
+A
+
+507
+Geography
+Where is the Museum of Danube Fishery and Boating?
+Tutrakan
+Ruse 
+Silistra
+Oryahovo
+A
+
+508
+Geography
+Durankulak is a village near the border with:
+Turkey
+Romania
+Serbia
+Greece
+B
+
+509
+Language
+Which of the following languages spoken in Europe today is considered to be the oldest?
+Galician
+Basque
+Icelandic
+Greek
+B
+
+510
+Language
+How many definite articles are there in Macedonian?
+One
+Two
+Three
+Four
+C
+
+511
+Language
+How many noun cases are there in Russian?
+four
+five
+six
+seven
+C
+

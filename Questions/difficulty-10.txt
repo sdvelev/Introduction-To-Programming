@@ -1,0 +1,122 @@
+/**
+*
+* Solution to course project # 1
+* Introduction to programming course
+* Faculty of Mathematics and Informatics of Sofia University
+* Winter semester 2020/2021
+*
+* @author Stefan Velev
+* @idnumber 62537
+* @compiler VC
+*
+* <file with questions difficulty 10>
+*
+*/
+
+900
+History
+The word "Bulgarians" is believed to have more than a meaning. What was the meaning of it according to Pannonian Avars? 
+People living on the outskirts
+Mixed people
+Rebels
+A kind of animal
+A
+
+901
+History
+How many schools were there in Sofia in 1578 according to Stephan Gerlach?
+One
+Two
+Three
+Zero
+B
+
+902
+History
+Who was a student of Patriarch Evtimiy?
+Akindin
+Gregory Tsamblak
+Theodosius of Tarnovo
+Gregory of Sinai
+B
+
+903
+Literature
+Who is the author behind the name “Poeta Minore”?
+Peyo Yavorov
+Pencho Slavejkov
+Nikolai Liliev
+Dimcho Debelyanov
+D
+
+904
+Literature
+Which short story of Elin Pelin do we connect with the words: "The whole world is ill, my son"?
+"Spasova mogila"
+"Samodivskite skali"
+"Vetrenata melnica"
+"Leten den"
+A
+
+905
+Literature
+Which poem of Dimcho Debelyanov is a variation to Paul Verlaine "It weeps my heart"?
+"The Town Sleeps"
+"Orphan Song"
+"To Return to your father’s house"
+"Plovdiv"
+A
+
+906
+Geography
+Which is part of International Transport Corridor 4?
+Kalotina - Istanbul 
+Gyueshevo - Varna
+Vidin - Kulata
+Kalotina - Istanbul 
+C
+
+907
+Geography
+Which is part of International Transport Corridor 10?
+Kalotina - Istanbul 
+Gyueshevo - Varna
+Vidin - Kulata
+Kalotina - Istanbul 
+D
+
+908
+Geography
+Which is part of International Transport Corridor 8?
+Kalotina - Istanbul 
+Gyueshevo - Varna
+Vidin - Kulata
+Kalotina - Istanbul 
+B
+
+909
+Language
+Guess the language "Ma bucur de cunostinta"?
+Romanian
+German
+French
+Portuguese  
+A
+
+910
+Language
+Guess the language "madre"?
+Spanish
+Portuguese 
+French
+Plosh 
+A
+
+911
+Language
+Guess the language "Bom dia"?
+Spanish
+Portuguese 
+French
+Italian
+B

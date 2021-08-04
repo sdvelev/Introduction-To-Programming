@@ -1,0 +1,123 @@
+/**
+*
+* Solution to course project # 1
+* Introduction to programming course
+* Faculty of Mathematics and Informatics of Sofia University
+* Winter semester 2020/2021
+*
+* @author Stefan Velev
+* @idnumber 62537
+* @compiler VC
+*
+* <file with questions difficulty 3>
+*
+*/
+
+200
+History
+Which of Henry VIII's wives shares a name with a British actress?
+Anne of Cleves
+Anne Boleyn
+Jane Seymour
+Catherine Parr
+C
+
+201
+History
+Who was the second female Prime Minister of UK?
+Theresa May
+Margaret Thatcher
+Margaret Beckett
+Ariene Foster
+A
+
+202
+History
+The Golden Age in England was during the reign of:
+Elizabeth I
+Mary I
+Elizabeth II
+Mary III
+A
+
+203 
+Literature
+Who is the author of "Old Time Bulgarians"?
+Luben Karavelov
+Ivan Vazov
+Elin Pelin
+Yordan Yovkov
+A
+
+204
+Literature
+Which is the first book of "Harry Potter" series?
+"Harry Potter and the Philosopher's Stone"
+"Harry Potter and the Chamber of Secrets"
+"Harry Potter and the Prisoner of Azkaban"
+"Harry Potter and the Goblet of Fire"
+A
+
+205
+Literature
+Which is the second book of "Harry Potter" series?
+"Harry Potter and the Philosopher's Stone"
+"Harry Potter and the Chamber of Secrets"
+"Harry Potter and the Prisoner of Azkaban"
+"Harry Potter and the Goblet of Fire"
+B
+
+206
+Geography
+Which of the following is a regional centre?
+Asenovgrad
+Kazanlak
+Dupnitsa
+Targovishte
+D
+
+207
+Geography
+Where is the tallest statue of The Virgin Mary in Bulgaria?
+Dimitrovgrad
+Kardzhali
+Haskovo
+Smolyan
+C
+
+208
+Geography
+Which church is not in the centre of Sofia City?
+St Sofia
+St Nikolay Mirlikiiski
+St Sedmochislenitsi    
+St Paraskeva
+D
+
+209
+Language
+How many indigenous languages are there estimated to be in Europe?
+Less than 100
+100-200
+200-300
+300-400
+C
+
+210
+Language
+How many official languages are there in Canada?
+Two
+Three
+Four
+Five
+A
+
+211
+Language
+How many noun cases are there in German?
+Two
+Three
+Four
+Five
+C
+
